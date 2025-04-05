@@ -3,6 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anajaraa&label=Profile%20views&color=0e75b6&style=flat" alt="anajaraa" /> </p>
 
+<p>🇧🇷 Português:
+👋 Olá! Sou Anajara, estudante de desenvolvimento fullstack com foco em Java, Spring Boot, Tailwind CSS e Git.
+💻 Apaixonada por tecnologia, estou sempre em busca de novos aprendizados e desafios.
+🚀 Aqui você encontrará meus projetos, estudos e experiências no mundo da programação.
+📚 Em constante evolução, acredito que compartilhar conhecimento é uma das melhores formas de crescer.
+
+Vamos codar juntos? 😄</p>
+
+
+<p>🇺🇸 English:
+👋 Hi there! I'm Anajara, a fullstack development student focused on Java, Spring Boot, Tailwind CSS, and Git.
+💻 Passionate about technology, I'm always looking for new challenges and opportunities to learn.
+🚀 Here you’ll find my projects, learning journeys, and coding experiments.
+📚 Constantly evolving, I believe that sharing knowledge is one of the best ways to grow.
+
+Let’s code together! 😄</p>
+
 - 🌱 I’m currently learning **IA AND REACT AND NODE**
 
 - 👨‍💻 All of my projects are available at [https://anajaraa.github.io/portfolioo/](https://anajaraa.github.io/portfolioo/)
